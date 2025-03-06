@@ -2,7 +2,7 @@
 
 ### 1. Progression differences having too big of an impact on pvp. Gear, jewels, blood, potions, and passives all play into this.
 
-   - It's not fun to fight somebody who does twice as much damage, has twice as much health, twice as much shields, and heals twice as fast. And vice versa. Some asymmetry is fine but the difference between e.g. <Red Twins E> vs <Iron Axes E> is too extreme.
+   - It's not fun to fight somebody who does twice as much damage, has twice as much health, twice as much shields, and heals twice as fast. And vice versa. Some asymmetry is fine but the difference between e.g. [Red Twins E] vs [Iron Axes E] is too extreme.
    - In regards to power difference, there are 3 phases of world lifecycle:
      1. The world recently started. For any given player, the pool of [people with similar power] is 100% of the population.
      2. The world has been running long enough to establish a wide range of progression. For any given player, the pool of [people with similar power] is far less, probably something like 15% of the population.
